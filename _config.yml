@@ -1,9 +1,9 @@
 # Site settings
-title_left    : "Think"
+title_left    : "tree"
 title_right   : "space" # default: ""
 description   : "."
 keywords      : ""
-url           : https://ying-li-python.github.io/thinkspace # site url
+url           : https://ying-li-python.github.io # site url
 baseurl       : "/thinkspace" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
